@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: white;/* Cor do texto */
+}
+
+a{
+    color: gold; /* Cor dos links */
+    text-decoration: none; /* Remove o sublinhado dos links */
+}
+a:hover{
+    text-decoration: underline; /* Adiciona o sublinhado ao passar o mouse */
+}
+
+h1, h2, h3{
+    font-family: 'Courier New', Courier, monospace; /* Fonte para os títulos */
+    text-align: center; /* Centraliza os títulos */
+    margin: 20px 0; /* Margem acima e abaixo dos títulos */
+    color: goldenrod; /* Cor dos títulos */
+
+}
