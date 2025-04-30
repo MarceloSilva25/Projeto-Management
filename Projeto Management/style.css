@@ -18,6 +18,15 @@ header {
     color: black;
     text-align: center;
 }
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1;
+    background-color: #C5A253;
+    text-decoration: none;
+}
 .container {
     display: flex;
     justify-content: center;
